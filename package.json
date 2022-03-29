@@ -1,0 +1,21 @@
+{
+  "name": "sam-token-ico",
+  "version": "1.0.0",
+  "description": "Sam Token Sale ICO",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "author": "Sam",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.4",
+    "fs": "0.0.1-security"
+  }
+}
